@@ -36,6 +36,9 @@ out/
 ### VS Code ###
 .vscode/
 
+*.yml
+*.yaml
+
 ### Spring Boot ###
 application*.yml
 application*.properties
